@@ -52,14 +52,6 @@ JavaScript (ES6+)
 
 Netlify (Deployment)
 
-📂 Project Structure
-src/
- ├── components/
- ├── pages/
- ├── contexts/
- ├── data/
- ├── App.js
- └── main.jsx
 📊 Dashboard Modules
 Module	Description
 Charts	Line, Bar, Pie, Area, Financial, and more
@@ -67,6 +59,7 @@ Calendar	Event scheduling & management
 Kanban	Drag & Drop task tracking
 Editor	Rich text editing
 Color Picker	Dynamic theme customization
+
 ⚡ Installation & Setup
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
