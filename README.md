@@ -1,70 +1,74 @@
-# Getting Started with Create React App
+🚀 React Admin Dashboard
+📌 Overview
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A fully functional Admin Dashboard built with React, featuring powerful UI components and advanced state management.
 
-## Available Scripts
+This project demonstrates real-world dashboard architecture including charts, tables, calendar, kanban board, rich text editor, and theme customization.
 
-In the project directory, you can run:
+🔗 Live Demo:
+👉 https://illustrious-cassata-3e75e9.netlify.app/
 
-### `npm start`
+✨ Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+📊 7 Different Interactive Charts
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+📅 Fully Functional Calendar
 
-### `npm test`
+🗂️ Kanban Task Management Board
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+📝 WYSIWYG Rich Text Editor
 
-### `npm run build`
+🎨 Color Picker
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+📋 Dynamic Data Tables
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+🌗 Light & Dark Theme Support
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+📱 Fully Responsive Layout
 
-### `npm run eject`
+🧠 What I Applied in This Project
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Advanced React Folder Structure
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Custom Hooks & Refs
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Global State Management using Context API
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Clean & Scalable Component Architecture
 
-## Learn More
+Modern UI/UX Design Patterns
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+🛠️ Tech Stack
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+React.js
 
-### Code Splitting
+React Context API
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Syncfusion UI Components
 
-### Analyzing the Bundle Size
+Tailwind CSS
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+JavaScript (ES6+)
 
-### Making a Progressive Web App
+Netlify (Deployment)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+📂 Project Structure
+src/
+ ├── components/
+ ├── pages/
+ ├── contexts/
+ ├── data/
+ ├── App.js
+ └── main.jsx
+📊 Dashboard Modules
+Module	Description
+Charts	Line, Bar, Pie, Area, Financial, and more
+Calendar	Event scheduling & management
+Kanban	Drag & Drop task tracking
+Editor	Rich text editing
+Color Picker	Dynamic theme customization
+⚡ Installation & Setup
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+npm install
+npm run dev
